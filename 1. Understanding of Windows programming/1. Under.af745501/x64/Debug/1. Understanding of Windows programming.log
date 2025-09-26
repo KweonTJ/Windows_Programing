@@ -1,0 +1,6 @@
+﻿  pratice.cpp
+C:\Users\user\Desktop\2학기\윈도우 프로그래밍\1. Understanding of Windows programming\pratice.cpp(46,12): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2학기\윈도우 프로그래밍\1. Understanding of Windows programming\pratice.cpp(65,31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2학기\윈도우 프로그래밍\1. Understanding of Windows programming\pratice.cpp(77,31): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\2학기\윈도우 프로그래밍\1. Understanding of Windows programming\pratice.cpp(53,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  1. Understanding of Windows programming.vcxproj -> C:\Users\user\Desktop\2학기\윈도우 프로그래밍\1. Understanding of Windows programming\x64\Debug\1. Understanding of Windows programming.exe
